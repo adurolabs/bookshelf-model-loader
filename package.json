@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:imjoshholloway/bookshelf-model-loader.git"
+    "url": "git@github.com:adurolabs/bookshelf-model-loader.git"
   },
   "keywords": [
     "bookshelf",
